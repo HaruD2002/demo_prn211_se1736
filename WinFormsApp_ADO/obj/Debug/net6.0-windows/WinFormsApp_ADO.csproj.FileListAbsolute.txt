@@ -1,0 +1,17 @@
+C:\Demo_PRN211_SE1736\WinFormsApp_ADO\bin\Debug\net6.0-windows\WinFormsApp_ADO.exe
+C:\Demo_PRN211_SE1736\WinFormsApp_ADO\bin\Debug\net6.0-windows\WinFormsApp_ADO.deps.json
+C:\Demo_PRN211_SE1736\WinFormsApp_ADO\bin\Debug\net6.0-windows\WinFormsApp_ADO.runtimeconfig.json
+C:\Demo_PRN211_SE1736\WinFormsApp_ADO\bin\Debug\net6.0-windows\WinFormsApp_ADO.dll
+C:\Demo_PRN211_SE1736\WinFormsApp_ADO\bin\Debug\net6.0-windows\WinFormsApp_ADO.pdb
+C:\Demo_PRN211_SE1736\WinFormsApp_ADO\obj\Debug\net6.0-windows\WinFormsApp_ADO.csproj.AssemblyReference.cache
+C:\Demo_PRN211_SE1736\WinFormsApp_ADO\obj\Debug\net6.0-windows\WinFormsApp_ADO.Form1.resources
+C:\Demo_PRN211_SE1736\WinFormsApp_ADO\obj\Debug\net6.0-windows\WinFormsApp_ADO.csproj.GenerateResource.cache
+C:\Demo_PRN211_SE1736\WinFormsApp_ADO\obj\Debug\net6.0-windows\WinFormsApp_ADO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Demo_PRN211_SE1736\WinFormsApp_ADO\obj\Debug\net6.0-windows\WinFormsApp_ADO.AssemblyInfoInputs.cache
+C:\Demo_PRN211_SE1736\WinFormsApp_ADO\obj\Debug\net6.0-windows\WinFormsApp_ADO.AssemblyInfo.cs
+C:\Demo_PRN211_SE1736\WinFormsApp_ADO\obj\Debug\net6.0-windows\WinFormsApp_ADO.csproj.CoreCompileInputs.cache
+C:\Demo_PRN211_SE1736\WinFormsApp_ADO\obj\Debug\net6.0-windows\WinFormsApp_ADO.dll
+C:\Demo_PRN211_SE1736\WinFormsApp_ADO\obj\Debug\net6.0-windows\refint\WinFormsApp_ADO.dll
+C:\Demo_PRN211_SE1736\WinFormsApp_ADO\obj\Debug\net6.0-windows\WinFormsApp_ADO.pdb
+C:\Demo_PRN211_SE1736\WinFormsApp_ADO\obj\Debug\net6.0-windows\WinFormsApp_ADO.genruntimeconfig.cache
+C:\Demo_PRN211_SE1736\WinFormsApp_ADO\obj\Debug\net6.0-windows\ref\WinFormsApp_ADO.dll

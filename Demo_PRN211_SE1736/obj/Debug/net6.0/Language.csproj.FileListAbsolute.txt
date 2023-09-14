@@ -1,0 +1,29 @@
+C:\Demo_PRN211_SE1736\Demo_PRN211_SE1736\bin\Debug\net6.0\Language.exe
+C:\Demo_PRN211_SE1736\Demo_PRN211_SE1736\bin\Debug\net6.0\Language.deps.json
+C:\Demo_PRN211_SE1736\Demo_PRN211_SE1736\bin\Debug\net6.0\Language.runtimeconfig.json
+C:\Demo_PRN211_SE1736\Demo_PRN211_SE1736\bin\Debug\net6.0\Language.dll
+C:\Demo_PRN211_SE1736\Demo_PRN211_SE1736\bin\Debug\net6.0\Language.pdb
+C:\Demo_PRN211_SE1736\Demo_PRN211_SE1736\obj\Debug\net6.0\Language.csproj.AssemblyReference.cache
+C:\Demo_PRN211_SE1736\Demo_PRN211_SE1736\obj\Debug\net6.0\Language.GeneratedMSBuildEditorConfig.editorconfig
+C:\Demo_PRN211_SE1736\Demo_PRN211_SE1736\obj\Debug\net6.0\Language.AssemblyInfoInputs.cache
+C:\Demo_PRN211_SE1736\Demo_PRN211_SE1736\obj\Debug\net6.0\Language.AssemblyInfo.cs
+C:\Demo_PRN211_SE1736\Demo_PRN211_SE1736\obj\Debug\net6.0\Language.csproj.CoreCompileInputs.cache
+C:\Demo_PRN211_SE1736\Demo_PRN211_SE1736\obj\Debug\net6.0\Language.dll
+C:\Demo_PRN211_SE1736\Demo_PRN211_SE1736\obj\Debug\net6.0\refint\Language.dll
+C:\Demo_PRN211_SE1736\Demo_PRN211_SE1736\obj\Debug\net6.0\Language.pdb
+C:\Demo_PRN211_SE1736\Demo_PRN211_SE1736\obj\Debug\net6.0\Language.genruntimeconfig.cache
+C:\Demo_PRN211_SE1736\Demo_PRN211_SE1736\obj\Debug\net6.0\ref\Language.dll
+E:\school\PRN C#\211\demo_prn211_se1736\Demo_PRN211_SE1736\bin\Debug\net6.0\Language.exe
+E:\school\PRN C#\211\demo_prn211_se1736\Demo_PRN211_SE1736\bin\Debug\net6.0\Language.deps.json
+E:\school\PRN C#\211\demo_prn211_se1736\Demo_PRN211_SE1736\bin\Debug\net6.0\Language.runtimeconfig.json
+E:\school\PRN C#\211\demo_prn211_se1736\Demo_PRN211_SE1736\bin\Debug\net6.0\Language.dll
+E:\school\PRN C#\211\demo_prn211_se1736\Demo_PRN211_SE1736\bin\Debug\net6.0\Language.pdb
+E:\school\PRN C#\211\demo_prn211_se1736\Demo_PRN211_SE1736\obj\Debug\net6.0\Language.GeneratedMSBuildEditorConfig.editorconfig
+E:\school\PRN C#\211\demo_prn211_se1736\Demo_PRN211_SE1736\obj\Debug\net6.0\Language.AssemblyInfoInputs.cache
+E:\school\PRN C#\211\demo_prn211_se1736\Demo_PRN211_SE1736\obj\Debug\net6.0\Language.AssemblyInfo.cs
+E:\school\PRN C#\211\demo_prn211_se1736\Demo_PRN211_SE1736\obj\Debug\net6.0\Language.csproj.CoreCompileInputs.cache
+E:\school\PRN C#\211\demo_prn211_se1736\Demo_PRN211_SE1736\obj\Debug\net6.0\Language.dll
+E:\school\PRN C#\211\demo_prn211_se1736\Demo_PRN211_SE1736\obj\Debug\net6.0\refint\Language.dll
+E:\school\PRN C#\211\demo_prn211_se1736\Demo_PRN211_SE1736\obj\Debug\net6.0\Language.pdb
+E:\school\PRN C#\211\demo_prn211_se1736\Demo_PRN211_SE1736\obj\Debug\net6.0\Language.genruntimeconfig.cache
+E:\school\PRN C#\211\demo_prn211_se1736\Demo_PRN211_SE1736\obj\Debug\net6.0\ref\Language.dll
