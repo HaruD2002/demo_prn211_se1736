@@ -15,3 +15,36 @@ C:\Demo_PRN211_SE1736\WinFormsApp_ADO\obj\Debug\net6.0-windows\refint\WinFormsAp
 C:\Demo_PRN211_SE1736\WinFormsApp_ADO\obj\Debug\net6.0-windows\WinFormsApp_ADO.pdb
 C:\Demo_PRN211_SE1736\WinFormsApp_ADO\obj\Debug\net6.0-windows\WinFormsApp_ADO.genruntimeconfig.cache
 C:\Demo_PRN211_SE1736\WinFormsApp_ADO\obj\Debug\net6.0-windows\ref\WinFormsApp_ADO.dll
+E:\school\PRN C#\211\demo_prn211_se1736\WinFormsApp_ADO\bin\Debug\net6.0-windows\WinFormsApp_ADO.exe
+E:\school\PRN C#\211\demo_prn211_se1736\WinFormsApp_ADO\bin\Debug\net6.0-windows\WinFormsApp_ADO.deps.json
+E:\school\PRN C#\211\demo_prn211_se1736\WinFormsApp_ADO\bin\Debug\net6.0-windows\WinFormsApp_ADO.runtimeconfig.json
+E:\school\PRN C#\211\demo_prn211_se1736\WinFormsApp_ADO\bin\Debug\net6.0-windows\WinFormsApp_ADO.dll
+E:\school\PRN C#\211\demo_prn211_se1736\WinFormsApp_ADO\bin\Debug\net6.0-windows\WinFormsApp_ADO.pdb
+E:\school\PRN C#\211\demo_prn211_se1736\WinFormsApp_ADO\obj\Debug\net6.0-windows\WinFormsApp_ADO.Form1.resources
+E:\school\PRN C#\211\demo_prn211_se1736\WinFormsApp_ADO\obj\Debug\net6.0-windows\WinFormsApp_ADO.csproj.GenerateResource.cache
+E:\school\PRN C#\211\demo_prn211_se1736\WinFormsApp_ADO\obj\Debug\net6.0-windows\WinFormsApp_ADO.GeneratedMSBuildEditorConfig.editorconfig
+E:\school\PRN C#\211\demo_prn211_se1736\WinFormsApp_ADO\obj\Debug\net6.0-windows\WinFormsApp_ADO.AssemblyInfoInputs.cache
+E:\school\PRN C#\211\demo_prn211_se1736\WinFormsApp_ADO\obj\Debug\net6.0-windows\WinFormsApp_ADO.AssemblyInfo.cs
+E:\school\PRN C#\211\demo_prn211_se1736\WinFormsApp_ADO\obj\Debug\net6.0-windows\WinFormsApp_ADO.csproj.CoreCompileInputs.cache
+E:\school\PRN C#\211\demo_prn211_se1736\WinFormsApp_ADO\obj\Debug\net6.0-windows\WinFormsApp_ADO.dll
+E:\school\PRN C#\211\demo_prn211_se1736\WinFormsApp_ADO\obj\Debug\net6.0-windows\refint\WinFormsApp_ADO.dll
+E:\school\PRN C#\211\demo_prn211_se1736\WinFormsApp_ADO\obj\Debug\net6.0-windows\WinFormsApp_ADO.pdb
+E:\school\PRN C#\211\demo_prn211_se1736\WinFormsApp_ADO\obj\Debug\net6.0-windows\WinFormsApp_ADO.genruntimeconfig.cache
+E:\school\PRN C#\211\demo_prn211_se1736\WinFormsApp_ADO\obj\Debug\net6.0-windows\ref\WinFormsApp_ADO.dll
+E:\school\PRN C#\211\demo_prn211_se1736\WinFormsApp_ADO\bin\Debug\net6.0-windows\appsettings.json
+E:\school\PRN C#\211\demo_prn211_se1736\WinFormsApp_ADO\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.dll
+E:\school\PRN C#\211\demo_prn211_se1736\WinFormsApp_ADO\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\school\PRN C#\211\demo_prn211_se1736\WinFormsApp_ADO\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+E:\school\PRN C#\211\demo_prn211_se1736\WinFormsApp_ADO\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Json.dll
+E:\school\PRN C#\211\demo_prn211_se1736\WinFormsApp_ADO\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\school\PRN C#\211\demo_prn211_se1736\WinFormsApp_ADO\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+E:\school\PRN C#\211\demo_prn211_se1736\WinFormsApp_ADO\bin\Debug\net6.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+E:\school\PRN C#\211\demo_prn211_se1736\WinFormsApp_ADO\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+E:\school\PRN C#\211\demo_prn211_se1736\WinFormsApp_ADO\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+E:\school\PRN C#\211\demo_prn211_se1736\WinFormsApp_ADO\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+E:\school\PRN C#\211\demo_prn211_se1736\WinFormsApp_ADO\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+E:\school\PRN C#\211\demo_prn211_se1736\WinFormsApp_ADO\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+E:\school\PRN C#\211\demo_prn211_se1736\WinFormsApp_ADO\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\school\PRN C#\211\demo_prn211_se1736\WinFormsApp_ADO\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\school\PRN C#\211\demo_prn211_se1736\WinFormsApp_ADO\obj\Debug\net6.0-windows\WinFormsApp_ADO.csproj.AssemblyReference.cache
+E:\school\PRN C#\211\demo_prn211_se1736\WinFormsApp_ADO\obj\Debug\net6.0-windows\WinFormsApp_ADO.csproj.CopyComplete

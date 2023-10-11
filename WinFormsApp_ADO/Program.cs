@@ -1,5 +1,7 @@
 namespace WinFormsApp_ADO
 {
+
+    // set always copy to file json 
     internal static class Program
     {
         /// <summary>

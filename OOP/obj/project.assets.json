@@ -2,6 +2,16 @@
   "version": 3,
   "targets": {
     "net6.0": {
+      "EventDemo/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/EventDemo.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/EventDemo.dll": {}
+        }
+      },
       "Language/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
@@ -15,6 +25,11 @@
     }
   },
   "libraries": {
+    "EventDemo/1.0.0": {
+      "type": "project",
+      "path": "../EventDemo/EventDemo.csproj",
+      "msbuildProject": "../EventDemo/EventDemo.csproj"
+    },
     "Language/1.0.0": {
       "type": "project",
       "path": "../Demo_PRN211_SE1736/Language.csproj",
@@ -23,6 +38,7 @@
   },
   "projectFileDependencyGroups": {
     "net6.0": [
+      "EventDemo >= 1.0.0",
       "Language >= 1.0.0"
     ]
   },
@@ -55,6 +71,9 @@
           "projectReferences": {
             "E:\\school\\PRN C#\\211\\demo_prn211_se1736\\Demo_PRN211_SE1736\\Language.csproj": {
               "projectPath": "E:\\school\\PRN C#\\211\\demo_prn211_se1736\\Demo_PRN211_SE1736\\Language.csproj"
+            },
+            "E:\\school\\PRN C#\\211\\demo_prn211_se1736\\EventDemo\\EventDemo.csproj": {
+              "projectPath": "E:\\school\\PRN C#\\211\\demo_prn211_se1736\\EventDemo\\EventDemo.csproj"
             }
           }
         }

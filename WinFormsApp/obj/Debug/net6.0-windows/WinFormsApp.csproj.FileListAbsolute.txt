@@ -15,3 +15,22 @@ C:\Demo_PRN211_SE1736\WinFormsApp\obj\Debug\net6.0-windows\refint\WinFormsApp.dl
 C:\Demo_PRN211_SE1736\WinFormsApp\obj\Debug\net6.0-windows\WinFormsApp.pdb
 C:\Demo_PRN211_SE1736\WinFormsApp\obj\Debug\net6.0-windows\WinFormsApp.genruntimeconfig.cache
 C:\Demo_PRN211_SE1736\WinFormsApp\obj\Debug\net6.0-windows\ref\WinFormsApp.dll
+E:\school\PRN C#\211\demo_prn211_se1736\WinFormsApp\bin\Debug\net6.0-windows\WinFormsApp.exe
+E:\school\PRN C#\211\demo_prn211_se1736\WinFormsApp\bin\Debug\net6.0-windows\WinFormsApp.deps.json
+E:\school\PRN C#\211\demo_prn211_se1736\WinFormsApp\bin\Debug\net6.0-windows\WinFormsApp.runtimeconfig.json
+E:\school\PRN C#\211\demo_prn211_se1736\WinFormsApp\bin\Debug\net6.0-windows\WinFormsApp.dll
+E:\school\PRN C#\211\demo_prn211_se1736\WinFormsApp\bin\Debug\net6.0-windows\WinFormsApp.pdb
+E:\school\PRN C#\211\demo_prn211_se1736\WinFormsApp\obj\Debug\net6.0-windows\WinFormsApp.csproj.GenerateResource.cache
+E:\school\PRN C#\211\demo_prn211_se1736\WinFormsApp\obj\Debug\net6.0-windows\WinFormsApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\school\PRN C#\211\demo_prn211_se1736\WinFormsApp\obj\Debug\net6.0-windows\WinFormsApp.AssemblyInfoInputs.cache
+E:\school\PRN C#\211\demo_prn211_se1736\WinFormsApp\obj\Debug\net6.0-windows\WinFormsApp.AssemblyInfo.cs
+E:\school\PRN C#\211\demo_prn211_se1736\WinFormsApp\obj\Debug\net6.0-windows\WinFormsApp.csproj.CoreCompileInputs.cache
+E:\school\PRN C#\211\demo_prn211_se1736\WinFormsApp\obj\Debug\net6.0-windows\WinFormsApp.dll
+E:\school\PRN C#\211\demo_prn211_se1736\WinFormsApp\obj\Debug\net6.0-windows\refint\WinFormsApp.dll
+E:\school\PRN C#\211\demo_prn211_se1736\WinFormsApp\obj\Debug\net6.0-windows\WinFormsApp.pdb
+E:\school\PRN C#\211\demo_prn211_se1736\WinFormsApp\obj\Debug\net6.0-windows\WinFormsApp.genruntimeconfig.cache
+E:\school\PRN C#\211\demo_prn211_se1736\WinFormsApp\obj\Debug\net6.0-windows\ref\WinFormsApp.dll
+E:\school\PRN C#\211\demo_prn211_se1736\WinFormsApp\obj\Debug\net6.0-windows\WinFormsApp.body.resources
+E:\school\PRN C#\211\demo_prn211_se1736\WinFormsApp\obj\Debug\net6.0-windows\WinFormsApp.Frmgenerateauto.resources
+E:\school\PRN C#\211\demo_prn211_se1736\WinFormsApp\obj\Debug\net6.0-windows\WinFormsApp.practise.resources
+E:\school\PRN C#\211\demo_prn211_se1736\WinFormsApp\obj\Debug\net6.0-windows\WinFormsApp.Start.resources

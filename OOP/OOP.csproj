@@ -9,6 +9,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\Demo_PRN211_SE1736\Language.csproj" />
+    <ProjectReference Include="..\EventDemo\EventDemo.csproj" />
   </ItemGroup>
 
 </Project>

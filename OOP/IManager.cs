@@ -13,5 +13,13 @@ namespace OOP
         public void InputList(int size);
         public void OutputList();
         public int CountSlot10timer();
+
+        public void ListWithHighestSal();
+
+        public List<teacher> getAllPartTimerWithMoreSlotThan10();
+
+        public void sortTeacherbySal();
+
+        public List<teacher> teacherStartwithAT();
     }
 }

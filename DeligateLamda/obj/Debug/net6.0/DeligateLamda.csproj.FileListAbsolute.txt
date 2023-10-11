@@ -13,3 +13,17 @@ C:\Demo_PRN211_SE1736\DeligateLamda\obj\Debug\net6.0\refint\DeligateLamda.dll
 C:\Demo_PRN211_SE1736\DeligateLamda\obj\Debug\net6.0\DeligateLamda.pdb
 C:\Demo_PRN211_SE1736\DeligateLamda\obj\Debug\net6.0\DeligateLamda.genruntimeconfig.cache
 C:\Demo_PRN211_SE1736\DeligateLamda\obj\Debug\net6.0\ref\DeligateLamda.dll
+E:\school\PRN C#\211\demo_prn211_se1736\DeligateLamda\bin\Debug\net6.0\DeligateLamda.exe
+E:\school\PRN C#\211\demo_prn211_se1736\DeligateLamda\bin\Debug\net6.0\DeligateLamda.deps.json
+E:\school\PRN C#\211\demo_prn211_se1736\DeligateLamda\bin\Debug\net6.0\DeligateLamda.runtimeconfig.json
+E:\school\PRN C#\211\demo_prn211_se1736\DeligateLamda\bin\Debug\net6.0\DeligateLamda.dll
+E:\school\PRN C#\211\demo_prn211_se1736\DeligateLamda\bin\Debug\net6.0\DeligateLamda.pdb
+E:\school\PRN C#\211\demo_prn211_se1736\DeligateLamda\obj\Debug\net6.0\DeligateLamda.GeneratedMSBuildEditorConfig.editorconfig
+E:\school\PRN C#\211\demo_prn211_se1736\DeligateLamda\obj\Debug\net6.0\DeligateLamda.AssemblyInfoInputs.cache
+E:\school\PRN C#\211\demo_prn211_se1736\DeligateLamda\obj\Debug\net6.0\DeligateLamda.AssemblyInfo.cs
+E:\school\PRN C#\211\demo_prn211_se1736\DeligateLamda\obj\Debug\net6.0\DeligateLamda.csproj.CoreCompileInputs.cache
+E:\school\PRN C#\211\demo_prn211_se1736\DeligateLamda\obj\Debug\net6.0\DeligateLamda.dll
+E:\school\PRN C#\211\demo_prn211_se1736\DeligateLamda\obj\Debug\net6.0\refint\DeligateLamda.dll
+E:\school\PRN C#\211\demo_prn211_se1736\DeligateLamda\obj\Debug\net6.0\DeligateLamda.pdb
+E:\school\PRN C#\211\demo_prn211_se1736\DeligateLamda\obj\Debug\net6.0\DeligateLamda.genruntimeconfig.cache
+E:\school\PRN C#\211\demo_prn211_se1736\DeligateLamda\obj\Debug\net6.0\ref\DeligateLamda.dll
